@@ -2,7 +2,7 @@
 
 Desenvolvemos o [Prato na Mesa]( https://fernandesmelo.github.io/carona-solidaria/) através da disciplina Projeto Integrador do curso Técnico Desenvolvimento de Sistemas.
 
-Atualmente, o restaurante estudantil da nossa escola oferece um serviço essencial aos estudantes, fornecendo refeições diárias, incluindo café da manhã, almoço, lanche da tarde e jantar. No entanto, enfrentamos um desafio na forma de comunicar o cardápio de refeições planejadas aos estudantes de maneira eficiente e prática. Atualmente, utilizamos papéis colados nas paredes para exibir o cardápio do dia ou da semana, o que pode ser inconveniente e pouco sustentável.
+Atualmente, o restaurante estudantil da nossa instituição oferece um serviço essencial aos estudantes, fornecendo refeições diárias, incluindo café da manhã, almoço, lanche da tarde e jantar. No entanto, enfrentamos um desafio na forma de comunicar o cardápio de refeições planejadas aos estudantes de maneira eficiente e prática. Atualmente, utilizamos papéis colados nas paredes para exibir o cardápio do dia ou da semana, o que pode ser inconveniente e pouco sustentável.
 A criação do projeto "Cardápio 4.0 do Refeitório Estudantil" visa resolver esse problema, proporcionando uma solução digital e fácil de acessar para que os estudantes possam verificar facilmente o cardápio das refeições planejadas em qualquer dispositivo conectado à internet.
 
 Suas funcionalidades são: 
