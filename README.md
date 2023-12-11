@@ -32,7 +32,7 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
    * Você verá a estrutura de pastas e arquivos do projeto no painel lateral esquerdo.
    * A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
 
-## 🚀 Rodando o Projeto
+### 📱 Rodando o Projeto
 1. Instale as Dependências:
    <br>
    ```npm install```
@@ -63,7 +63,7 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 5. Explorando o Código no VSCode:
    * Continue explorando e editando o código no VSCode. As alterações serão refletidas automaticamente no aplicativo em execução.
 
-## 🎉 Parabéns!
+### 🎉 Parabéns!
 Agora você tem o projeto React Native instalado, configurado e rodando localmente e na web. Bom desenvolvimento!
 
 ## ⚙️ Executando os Testes
