@@ -21,13 +21,15 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 
 ### 🔧 Instalação
 
-1. Clone este repositório para o seu computador.
-2. Abra o Visual Studio Code.
-3. Clique em "Arquivo" (ou "File") no canto superior esquerdo da janela.
-4. Selecione "Abrir Pasta" (ou "Open Folder").
-5. Após selecionar a pasta, ela será aberta no VSCode.
-6. Você verá a estrutura de pastas e arquivos do projeto no painel lateral esquerdo.
-7. 
+1. Clone este repositório:
+ git clone https://github.com/seu-usuario/nome-do-projeto.git
+
+3. Abra o Visual Studio Code.
+4. Clique em "Arquivo" (ou "File") no canto superior esquerdo da janela.
+5. Selecione "Abrir Pasta" (ou "Open Folder").
+6. Após selecionar a pasta, ela será aberta no VSCode.
+7. Você verá a estrutura de pastas e arquivos do projeto no painel lateral esquerdo.
+8. 
 
 A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
 
