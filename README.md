@@ -82,11 +82,8 @@ Próximos passos...
 React Native é uma escolha poderosa para o desenvolvimento de aplicativos móveis multiplataforma. Ele permite que você use React (uma biblioteca JavaScript) para construir interfaces de usuário nativas. As razões para escolher React Native incluem:
 
   * *Desenvolvimento Eficiente:* Compartilhamento de código entre iOS e Android, economizando tempo e esforço.
-  <br>
   * *Comunidade Ativa:* Uma comunidade robusta e uma grande quantidade de bibliotecas disponíveis para acelerar o desenvolvimento.
-  <br>
   * *Performance Nativa:* O código escrito em React Native é compilado para código nativo, garantindo uma performance semelhante à de aplicativos nativos.
-  <br>
   * *Atualizações Rápidas:* A capacidade de atualizar partes específicas do aplicativo sem a necessidade de uma nova versão na loja de aplicativos.
 
 ## 👨🏽‍💻 Versão das Tecnologias
