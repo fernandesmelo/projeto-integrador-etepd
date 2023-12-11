@@ -23,7 +23,7 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 
 1. Clone este repositório:
    <br>
-   git clone https://github.com/fernandesmelo/projeto-integrador-etepd.git
+   ```git clone https://github.com/fernandesmelo/projeto-integrador-etepd.git```
 
 2. Abra o Visual Studio Code:
    * Clique em "Arquivo" (ou "File") no canto superior esquerdo da janela.
@@ -35,7 +35,7 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 ## 🚀 Rodando o Projeto
 1. Instale as Dependências:
    <br>
-   npm install
+   ```npm install```
 2. Configuração do Ambiente:
    <br>
    Certifique-se de ter configurado corretamente o ambiente para o React Native.
@@ -45,20 +45,20 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
    <br>
    * Emulador Android:
      <br>
-     npx react-native run-android
+     ```npx react-native run-android```
      <br>
    * Emulador iOS:
      <br>
-     npx react-native run-ios
+     ```npx react-native run-ios```
 4. Visualizando o Projeto na Web usando Expo:
    <br>
    * Instale o Expo CLI globalmente:
      <br>
-     npm install -g expo-cli
+     ```npm install -g expo-cli```
      <br>
    * Inicie o projeto com Expo:
      <br>
-     expo start
+     ```expo start```
    * Escolha "Run in web browser" no navegador para visualizar o aplicativo na web.
 5. Explorando o Código no VSCode:
    * Continue explorando e editando o código no VSCode. As alterações serão refletidas automaticamente no aplicativo em execução.
