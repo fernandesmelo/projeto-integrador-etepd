@@ -32,6 +32,16 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
    * Você verá a estrutura de pastas e arquivos do projeto no painel lateral esquerdo.
    * A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
 
+## 🚀 Rodando o Projeto
+1. Instale as Dependências:
+   <br>
+   npm install
+3. Configuração do Ambiente:
+   <br>
+   Certifique-se de ter configurado corretamente o ambiente para o React Native.
+   <br>
+   [Configurar o Ambiente React Native](https://reactnative.dev/docs/environment-setup).
+
 ## ⚙️ Executando os Testes
 Próximos passos...
 
