@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     padding: 20,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "rgba(0, 0, 0, 0.5)", // Cor de fundo do modal (semi-transparente)
+    backgroundColor: "rgba(0, 0, 0, 0.5)", 
   },
   modalContent: {
     backgroundColor: "white",

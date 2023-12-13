@@ -69,22 +69,6 @@ export default function Tela6() {
         <Text style={styles.title}>Sexta-feira</Text>
         {renderProducts()}
 
-        {/* <View style={styles.container2}>
-          <TouchableOpacity
-            style={styles.confirmar}
-            onPress={() => Alert.alert("Você pressionou o botão de Confirmar")}
-          >
-            <Text style={styles.textoBotoes}>CONFIRMAR</Text>
-          </TouchableOpacity>
-          <Separador />
-          <TouchableOpacity
-            style={styles.cancelar}
-            onPress={() => Alert.alert("Você pressionou o botão de Cancelar")}
-          >
-            <Text style={styles.textoBotoes}>CANCELAR</Text>
-          </TouchableOpacity>
-        </View> */}
-
         {selectedProduct && (
           <ProductInfoModal
             isVisible={!!selectedProduct}

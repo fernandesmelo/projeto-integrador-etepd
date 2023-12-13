@@ -14,7 +14,6 @@ export default function Tela1({ navigation }) {
   return (
     <View style={styles.container}>
       <Image source={require("./assets/imagemSuperiorEsquerdo.png")} style={styles.imagemSuperiorEsquerdo} />
-      {/* <Text>Escolha o dia da semana que deseja vizualizar o cardápio</Text> */}
       <Separador />
       <Button
         title="Segunda-feira"
@@ -42,21 +41,6 @@ export default function Tela1({ navigation }) {
       />
       <Separador />
       <Image source={require("./assets/imagemInferiorDireito.png")} style={styles.imagemInferiorDireito} />
-      {/* <View style={styles.container2}>
-        <TouchableOpacity
-          style={styles.confirmar}
-          onPress={() => Alert.alert("Você pressionou o botão de Confirmar")}
-        >
-          <Text style={styles.textoBotoes}>CONFIRMAR</Text>
-        </TouchableOpacity>
-        <Separador />
-        <TouchableOpacity
-          style={styles.cancelar}
-          onPress={() => Alert.alert("Você pressionou o botão de Cancelar")}
-        >
-          <Text style={styles.textoBotoes}>CANCELAR</Text>
-        </TouchableOpacity>
-      </View> */}
     </View>
   );
 }
@@ -71,15 +55,15 @@ const styles = StyleSheet.create({
     position: "absolute",
     top: 0,
     left: 0,
-    width: 300, // Ajuste conforme necessário
-    height: 100, // Ajuste conforme necessário
+    width: 300, 
+    height: 100, 
   },
   imagemInferiorDireito: {
     position: "absolute",
     bottom: 0,
     right: 0,
-    width: 300, // Ajuste conforme necessário
-    height: 100, // Ajuste conforme necessário
+    width: 300, 
+    height: 100, 
   },
   container2: {
     flexDirection: "row",
