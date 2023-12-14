@@ -75,6 +75,6 @@ const styles = StyleSheet.create({
     padding: 20,
   },
   buttonContainer: {
-    width: "30%",
+    width: "60%",
   },
 });
