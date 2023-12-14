@@ -5,6 +5,8 @@ Desenvolvemos o *Prato na Mesa* através da disciplina Projeto Integrador do cur
 Atualmente, o restaurante estudantil da nossa instituição oferece um serviço essencial aos estudantes, fornecendo refeições diárias, incluindo café da manhã, almoço, lanche da tarde e jantar. No entanto, enfrentamos um desafio na forma de comunicar o cardápio de refeições planejadas aos estudantes de maneira eficiente e prática. Atualmente, utilizamos papéis colados nas paredes para exibir o cardápio do dia ou da semana, o que pode ser inconveniente e pouco sustentável.
 A criação do projeto "Cardápio 4.0 do Refeitório Estudantil" visa resolver esse problema, proporcionando uma solução digital e fácil de acessar para que os estudantes possam verificar facilmente o cardápio das refeições planejadas em qualquer dispositivo conectado à internet.
 
+[screen-capture (2).webm](https://github.com/fernandesmelo/projeto-integrador-etepd/assets/113717317/c5d3eff4-29ec-4117-837d-14a287402736)
+
 Suas funcionalidades são: 
 
 ✅Escolher cardápio para vizualização.
