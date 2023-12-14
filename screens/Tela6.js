@@ -6,12 +6,9 @@ import {
   Text,
   TouchableOpacity,
   View,
-  Alert,
 } from "react-native";
 import Separador from "../components/Separador";
 import ProductInfoModal from "../components/Modal";
-
-const backgroundImg = require("./assets/imagemFundo.jpg");
 
 const products = [
   {
@@ -52,7 +49,7 @@ export default function Tela6() {
       <View key={index} style={styles.row}>
         <View style={styles.column}>
           <Text style={styles.texto}>{product.nome}</Text>
-          {/* <Text>09:00</Text> */}
+          <Text>00:00</Text>
         </View>
         <View style={styles.column}>
           <TouchableOpacity onPress={() => openModal(product)}>
@@ -64,9 +61,8 @@ export default function Tela6() {
   };
 
   return (
-    <ImageBackground source={backgroundImg} style={styles.background}>
       <View style={styles.container}>
-        <Text style={styles.title}>Sexta-feira</Text>
+        <Text style={styles.title}>Sexta-Feira</Text>
         {renderProducts()}
 
         {selectedProduct && (
@@ -77,7 +73,6 @@ export default function Tela6() {
           />
         )}
       </View>
-    </ImageBackground>
   );
 }
 
@@ -98,11 +93,12 @@ const styles = StyleSheet.create({
     borderColor: "#ccc",
     padding: 10,
     margin: 5,
-    backgroundColor: "#ddd",
+    backgroundColor: "#FFFFFF",
+    width: "200px",
   },
   image: {
-    width: 100,
-    height: 100,
+    width: 200,
+    height: 150,
   },
   texto: {
     fontSize: 25,
@@ -117,20 +113,6 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-around",
     padding: 20,
-  },
-  confirmar: {
-    width: 150,
-    backgroundColor: "green",
-    padding: 10,
-    borderRadius: 5,
-    margin: 5,
-  },
-  cancelar: {
-    width: 150,
-    backgroundColor: "red",
-    padding: 10,
-    borderRadius: 5,
-    margin: 5,
   },
   textoBotoes: {
     color: "white",
