@@ -68,9 +68,6 @@ Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 ### 🎉 Parabéns!
 Agora você tem o projeto React Native instalado, configurado e rodando localmente e na web. Bom desenvolvimento!
 
-## ⚙️ Executando os Testes
-Próximos passos...
-
 ## 🛠️ Construído com
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -94,14 +91,13 @@ React Native é uma escolha poderosa para o desenvolvimento de aplicativos móve
 * JavaScript ECMAScript 6 (ES6)
 * React Native 10.2.3
 
-## 🚧 Status do Projeto
-Em construção...
-
 ## ✒️ Integrantes do Projeto
 | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/9bfaad36-461b-40fb-94c0-e80f575537a2" width="100" height="100" /> | <img src="https://github.com/fernandesmelo/projeto-integrador-etepd/assets/113717317/47791665-8cbc-4751-872c-da79e9eed7d9" width="100" height="100" /> | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/8762e53c-5140-498f-97f2-b6c73e116ba6" width="100" height="100" /> | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/497e99c1-b743-4051-a30a-63e05c59bfc1" width="100" height="100" /> | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/7620caa8-9b30-4b87-9b15-69f9641fa0f2" width="100" height="100" /> | <img src="https://github.com/fernandesmelo/carona-solidaria/assets/113717317/65981f78-f2d0-47bc-92db-44e0d8d1af9b" width="100" height="100" /> |
 |:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
 | [Laércio Fernandes](https://www.linkedin.com/in/laercio-fernandes/) | [Pedro Lucena](https://www.linkedin.com/in/pedro-lucena-b969b1199/) | [Monique Ferreira](https://www.linkedin.com/in/monique-ferreira-42b2121b7/) | [Claudio Felipe](https://www.linkedin.com/in/claudio-felipe-5b7b39116/) | [Tácia Camila](https://www.linkedin.com/in/t%C3%A1ciacamila/) | [Raíssa Santos](https://www.linkedin.com/in/raissasantos96/) |
 
+## ⚙️ Executando os Testes
+Próximos passos...
 
 ## 🎁 Expressões de Gratidão
 Agradeço a [Waldeck Lindoso](https://www.linkedin.com/in/waldeck-lindoso-jr-41a94840/) por ter nos guiado nesse projeto do início ao fim, a [Pedro Albino](https://www.linkedin.com/in/pedrohalbino/) e a Sandra Chacon por nos ter dado um suporte nesse projeto 🫂.
